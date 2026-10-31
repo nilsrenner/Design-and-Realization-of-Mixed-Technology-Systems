@@ -1,2 +1,2 @@
 # Design-and-Realization-of-Mixed-Technology-Systems
-Design of a Sigma-Delta ADC 
+Design of a Delta-Sigma ADC 

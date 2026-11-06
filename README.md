@@ -1,3 +1,3 @@
 # Design-and-Realization-of-Mixed-Technology-Systems
 Design of a Delta-Sigma ADC 
-Hallo zusammen
+Hallo zusammen (auch Nils)

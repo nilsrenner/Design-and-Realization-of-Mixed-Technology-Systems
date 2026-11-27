@@ -17,7 +17,6 @@ N -180 -0 -60 0 {lab=vin}
 N -20 -140 -0 -140 {lab=vcc}
 N -20 100 -0 100 {lab=vss}
 N 140 60 140 80 {lab=0}
-C {DRMS/001_Inverter/Inverter.sym} 0 0 0 0 {name=x1}
 C {vsource.sym} 40 -110 0 0 {name=V_cc value= "1.5" savecurrent=false}
 C {vsource.sym} 40 130 0 0 {name=V_ss value= "0" savecurrent=false}
 C {vsource.sym} -140 30 0 0 {name=V_in value="dc 0.75 ac 1" savecurrent=false}
@@ -67,3 +66,4 @@ value=1p
 footprint=1206
 device="ceramic capacitor"}
 C {gnd.sym} 140 80 0 0 {name=l4 lab=0}
+C {001_Inverter/Inverter.sym} 0 0 0 0 {name=x1}
